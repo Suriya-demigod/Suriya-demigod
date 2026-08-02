@@ -15,11 +15,9 @@
 
 ### 🧠 About Me
 
-- 🎓 B.E. in Electronics & Communication Engineering @ **Dr. Mahalingam College of Engineering and Technology** *(2023–2027)*
 - 🔭 Currently working on **RAG pipelines, LLM fine-tuning, and AI agent workflows**
 - 🌱 Exploring **LangGraph, MLflow, and production-grade ML deployment**
 - 💬 Ask me about **Machine Learning, Generative AI, RAG, Computer Vision, Edge AI**
-- 📫 Reach me at **suriya4548j@gmail.com**
 - ⚡ Fun fact: I build AI systems that run on drones *and* in the cloud
 
 ---
@@ -63,17 +61,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🧠 **AI Academic Assistant** | Production-grade RAG pipeline with local LLM, FAISS vector store, LangGraph agents, and semantic search over academic documents | Python, FAISS, Ollama, LangChain, LangGraph |
-| 🚗 **RTO Driving Test Evaluator** | Real-time CV pipeline with YOLOv8 + Optical Flow for vehicle behaviour analysis, automated pass/fail scoring, and infraction logging | YOLOv8, OpenCV, STM32H743, Python |
-| 🌾 **Crop Disease Detection & UAV Spray** | End-to-end CNN-based disease detection with GPS geo-tagging and autonomous drone navigation for precision pesticide spraying | CNN, OpenCV, GPS, Drone, Python |
-| 🔥 **Autonomous Fire Detection Drone** | YOLO-based fire detection on ESP32-CAM with sub-second edge inference and automated suppression trigger | YOLO, ESP32-CAM, Python, IoT |
 
 ---
 
