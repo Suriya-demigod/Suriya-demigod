@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Suriya+A;AI+%2F+ML+Engineer;Building+Intelligent+Systems;RAG+%7C+Computer+Vision+%7C+Edge+AI" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img alt="Suriya A Profile Banner" src="dark.svg" width="100%">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suriya-demigod&label=Profile%20views&color=6E40C9&style=flat" alt="profile views" />

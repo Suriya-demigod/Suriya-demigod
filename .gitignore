@@ -1,0 +1,11 @@
+# Ignore large uncompressed source images
+pic.png
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
+
+# Ignore node_modules (just in case they get reinstalled)
+node_modules/
+package-lock.json
+package.json
