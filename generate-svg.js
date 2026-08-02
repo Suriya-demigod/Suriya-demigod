@@ -75,14 +75,8 @@ let pills='';
   });
 });
 
-// --- Social icons ---
-const sy=458;let sx=RP+42;
-let soc='';
-[{l:'GitHub',i:ghI},{l:'LinkedIn',i:liI},{l:'Email',i:emI}].forEach((s,i)=>{
-  const d=(5.6+i*.25).toFixed(2);
-  soc+=`<g opacity="0" transform="translate(${sx},${sy})"><animate attributeName="opacity" from="0" to="1" begin="${d}s" dur=".35s" fill="freeze"/><rect width="140" height="36" rx="10" fill="${isDark?'rgba(15,23,42,0.6)':'rgba(248,250,252,0.8)'}" stroke="${t.bd}" stroke-width="1"/><svg x="10" y="6" width="24" height="24" viewBox="0 0 24 24"><path d="${s.i}" fill="${t.a2}"/></svg><text x="42" y="23" fill="${t.t2}" font-family="'Courier New',monospace" font-size="12px">${s.l}</text></g>\n`;
-  sx+=158;
-});
+// --- Slogan/Console prompt ---
+const slogan = `<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.6s" dur=".35s" fill="freeze"/><text x="\${RP+42}" y="475" fill="\${t.a3}" font-family="'Courier New',monospace" font-size="14px" font-weight="bold">&gt; <tspan fill="\${t.t1}">Bridging cloud intelligence &amp; physical edge hardware.</tspan></text></g>\n`;
 
 // --- Particles ---
 let pts='';
@@ -200,8 +194,8 @@ ${iB}
 ${pills}
 <line x1="${RP+42}" y1="440" x2="${RP+700}" y2="440" stroke="${t.bd}" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to=".4" begin="5.3s" dur=".3s" fill="freeze"/></line>
 
-<!-- Socials -->
-${soc}
+<!-- Slogan -->
+${slogan}
 
 <!-- Bottom accent line -->
 <line x1="${RP+42}" y1="505" x2="${RP+700}" y2="505" stroke="${t.bd}" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to=".3" begin="6s" dur=".3s" fill="freeze"/></line>
