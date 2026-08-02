@@ -119,10 +119,10 @@ I maintain a diverse set of skills spanning software engineering, data science, 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Suriya-demigod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="95%" alt="GitHub Stats"/>
+      <img src="https://github-stats-extended.vercel.app/api?username=Suriya-demigod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="95%" alt="GitHub Stats"/>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Suriya-demigod&layout=compact&theme=tokyonight&hide_border=true" width="95%" alt="Top Languages"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Suriya-demigod&layout=compact&theme=tokyonight&hide_border=true" width="95%" alt="Top Languages"/>
     </td>
   </tr>
   <tr>
