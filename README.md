@@ -114,26 +114,6 @@ I maintain a diverse set of skills spanning software engineering, data science, 
 
 ---
 
-## 📊 Developer Metrics & Analytics
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api?username=Suriya-demigod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="95%" alt="GitHub Stats"/>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Suriya-demigod&layout=compact&theme=tokyonight&hide_border=true" width="95%" alt="Top Languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suriya-demigod&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=80&section=footer" />
 </p>
